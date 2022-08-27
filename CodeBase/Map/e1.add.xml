@@ -1,0 +1,20 @@
+<additional>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="e1det_-133305531#2_0" lane="-133305531#2_0" length="250" pos="152.31"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="e1det_-133305558#3_0" lane="-133305558#3_0" length="250" pos="188.86"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="e1det_-133305558#3_1" lane="-133305558#3_1" length="250" pos="188.86"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="e1det_133305531#1_0" lane="133305531#1_0" length="250" pos="417.72"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="e1det_133305558#2_0" lane="133305558#2_0" length="250" pos="584.4"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="e1det_133305558#2_1" lane="133305558#2_1" length="250" pos="584.4"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="e1det_-133305558#1_0" lane="-133305558#1_0" length="250" pos="1561.82"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="e1det_-133305558#1_1" lane="-133305558#1_1" length="250" pos="1561.82"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="e1det_-451690840#0_0" lane="-451690840#0_0" length="250" pos="1713.58"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="e1det_-451690840#0_1" lane="-451690840#0_1" length="250" pos="1713.58"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="e1det_133305558#0_0" lane="133305558#0_0" length="250" pos="2910.9"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="e1det_133305558#0_1" lane="133305558#0_1" length="250" pos="2910.9"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="e1det_-133305558#2_0" lane="-133305558#2_0" length="250" pos="584.43"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="e1det_-133305558#2_1" lane="-133305558#2_1" length="250" pos="584.43"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="e1det_133305530#3_0" lane="133305530#3_0" length="250" pos="610.55"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="e1det_133305530#3_1" lane="133305530#3_1" length="250" pos="610.55"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="e1det_133305558#1_0" lane="133305558#1_0" length="250" pos="1561.86"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="e1det_133305558#1_1" lane="133305558#1_1" length="250" pos="1561.86"/>
+</additional>

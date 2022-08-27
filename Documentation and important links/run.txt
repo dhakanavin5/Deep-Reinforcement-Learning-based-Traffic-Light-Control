@@ -1,0 +1,20 @@
+1. first install python,sumo package.
+
+2.  Map folder has the gwalior.sumocfg file used to communicate with python and it contains following below file
+	1.net-file or network-file having map of gwalior(gwalior1.net.xml).
+	2.route-file have vehile route file i.e. lowtraffic.rou.xml. 
+	3.additional-file having information about detectors.
+
+3.once we installed above package then run the main program
+
+4.when we run pyhton script then we are able to see sumo-window and follow these steps.
+	step1- click on file (sumo-window having file option at left-upper side of the screen).
+	step2- open gwalior.sumocfg file. 
+
+
+Note:- ppr1.py code is the implementation of ppr1.pdf on the gwalior map.
+below are the link to know more about sumo:-
+https://sumo.dlr.de/docs/TraCI/Vehicle_Value_Retrieval.html
+https://sumo.dlr.de/userdoc/Tutorials/TraCI4Traffic_Lights.html
+https://www.youtube.com/watch?v=9MyIABer_NY&list=PLuY0WH4mYH1NvZMss0oKonajGdNl6IvuT
+
